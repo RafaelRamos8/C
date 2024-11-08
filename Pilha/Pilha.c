@@ -52,7 +52,6 @@ void pop(){
 int main(){
 int opcao = 0;
 do{
-printf("\n Aula do dia 19/04 ---- Aula do Shaba. \n\n");
 printf("SELECIONE A OPCAO: \n\n");
 printf("[1] - Inserir (push):\n");
 printf("[2] - Remover (pop):\n");
